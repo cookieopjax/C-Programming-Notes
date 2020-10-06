@@ -102,6 +102,8 @@ int main(){
     printf("%d\n",cookie.score);//可正常操作
 }
 ```
+*若在struct中就要使用該struct，乖乖取結構名稱，不要用這招
+
 ----
 
 ## 結構指標
